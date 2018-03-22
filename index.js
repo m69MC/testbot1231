@@ -197,4 +197,4 @@ bot.on('guildMemberRemove', member => {
     });
 });
 
-bot.login(process.env.token);
+bot.login(NDI1OTk4NzAxNzE5MTkxNTY0.DZPluQ.TX2GHcoeeUExt1hrJZRiNNmL8pQ);
